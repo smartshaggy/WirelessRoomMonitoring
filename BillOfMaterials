@@ -1,0 +1,39 @@
+From Sparkfun (Local Pick-up, no shipping costs)
+3x Photons No Headers - $19/ea <https://www.sparkfun.com/products/13764>
+3x 5v USB-B Wall Adapters - $5.95/ea <https://www.sparkfun.com/products/13764>
+1x Beefcake Relay Control Kit (Ver. 2.0) - $7.95/ea <https://www.sparkfun.com/products/13815>
+1x Humidity and Temperature Sensor - RHT03 - $9.95/ea <https://www.sparkfun.com/products/10167>
+2x (1 needed, broke 1) Ultrasonic Sensor - HC-SR04 - $3.95/ea <https://www.sparkfun.com/products/13959>
+
+From Amazon (Prime suggested, shipping for standard not included)
+1x uxcell K Type 20cm Probe Thermocouple High Temperature Sensor 1.65M - $8.09/ea <https://www.amazon.com/gp/product/B008MU0SUM/ref=oh_aui_detailpage_o09_s00?ie=UTF8&psc=1>
+1x SainSmart MAX6675 Module For Arduino - $13.99/ea <https://www.amazon.com/gp/product/B00PVTH4MW/ref=oh_aui_detailpage_o09_s00?ie=UTF8&psc=1>
+1x Tolako 5v Relay Module for Arduino - $5.80/ea <https://www.amazon.com/gp/product/B00VRUAHLE/ref=oh_aui_detailpage_o09_s00?ie=UTF8&psc=1>
+1x HFS 110v Ac or 12v Dc Electric Solenoid Valve - $19.99/ea <https://www.amazon.com/gp/product/B018WRJYWM/ref=oh_aui_detailpage_o09_s00?ie=UTF8&psc=1>
+
+Industrial Safety
+1x Vestil DC-245 Open Head Galvanized Drum Cover - ~$30 (after shipping) <https://industrialsafety.com/vestil-dc-245-open-head-galvanized-drum-cover-vestil-dc-245.html?gclid=Cj0KCQjw5qrXBRC3ARIsAJq3bwrDVmWRW__j1PsxMt1Zk0LLIkX1ZgV2Jt25NhGM0_VjI8FzvKPHYTwaAi8YEALw_wcB>
+
+Misc. (Local Hardware Store)
+1x 1/2" x 12" stainless tube - ~$10
+2x 1/2" Shaft Collar - ~$2.50
+1x 10kOhm resistor - ~$0.05
+~2ft of 22 ga wire - ~$3
+~1ft of 10 ga wire - ~$2
+~6"x3/4" shrink tubing
+~10m PLA filament for 3d printing cases
+Bunch of hot glue
+
+Total cost of materials - ~$200
+
+Required tools
+-3d Printer
+-Hot glue gun
+-Soldering iron
+-Drill
+-Allen keys
+-Computer (for Particle IDE, but you're here so...)
+-WiFi w/ cross-device communication access (if on protected network you must get Photons approved)
+-Strong will and determination
+
+Best of luck if attempting a build of this sort!
