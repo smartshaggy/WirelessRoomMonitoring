@@ -8,7 +8,7 @@ int LowT;
 int HoneyT;
 STARTUP(WiFi.selectAntenna(ANT_EXTERNAL));
 
-//The subscriptions come from published values fromt the GravSystem and TempProbe Photons
+//The subscriptions come from published values fromt the GravSystem and TempProbe Photons, quoted numbers are phton device IDs
 //Functions take the desired temp range from the user via the HotRoomControl Photon
 //Variables visible to user allow them to decide how to set temp range to fit desired room temp
 
